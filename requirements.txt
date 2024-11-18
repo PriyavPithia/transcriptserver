@@ -1,0 +1,15 @@
+flask
+flask-cors
+youtube-transcript-api
+transformers
+google-generativeai
+scikit-learn
+numpy
+langchain
+faiss-cpu
+sentence-transformers
+nltk
+langchain-google-genai
+
+
+
